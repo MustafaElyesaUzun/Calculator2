@@ -4,6 +4,8 @@
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Bu kod böyle olmaz hocam.");
             Console.WriteLine("Hesap Makinesi");
 
             Console.Write("Birinci Sayıyı Giriniz: ");
